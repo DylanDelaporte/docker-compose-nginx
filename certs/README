@@ -1,0 +1,1 @@
+Here put your certificates/private keys, this directory will be mounted inside the docker so that you can add these files to your host config
